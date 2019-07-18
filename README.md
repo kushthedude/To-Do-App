@@ -1,4 +1,7 @@
+
+[![Dependabot compatibility score](https://api.dependabot.com/badges/compatibility_score?dependency-name=react-dom&package-manager=npm_and_yarn&previous-version=16.6.3&new-version=16.8.6)](https://dependabot.com/compatibility-score.html?dependency-name=react-dom&package-manager=npm_and_yarn&previous-version=16.6.3&new-version=16.8.6)
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=kushthedude/To-Do-App)](https://dependabot.com)
+
 ## Introduction
 It is Simple To-Do app based on Django Rest-API and React.js.
 

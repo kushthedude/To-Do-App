@@ -18,18 +18,18 @@
     "default": {
         "django": {
             "hashes": [
-                "sha256:1ffab268ada3d5684c05ba7ce776eaeedef360712358d6a6b340ae9f16486916",
-                "sha256:dd46d87af4c1bf54f4c926c3cfa41dc2b5c15782f15e4329752ce65f5dad1c37"
+                "sha256:65e2a548a52fca560cdd4e35f4fa1a79140f405af48950e59702a37e4227e958",
+                "sha256:d4244e2c9653e1349b37ab0cdf108607ba9d1e41f71d0711ac71360e4026ce94"
             ],
             "index": "pypi",
-            "version": "==2.1.3"
+            "version": "==2.1.10"
         },
         "pytz": {
             "hashes": [
-                "sha256:31cb35c89bd7d333cd32c5f278fca91b523b0834369e757f4c5641ea252236ca",
-                "sha256:8e0f8568c118d3077b46be7d654cc8167fa916092e28320cde048e54bfc9f1e6"
+                "sha256:303879e36b721603cc54604edcac9d20401bdbe31e1e4fdee5b9f98d5d31dfda",
+                "sha256:d747dd3d23d77ef44c6a3526e274af6efeb0a6f1afd5a69ba4d5be4098c8e141"
             ],
-            "version": "==2018.7"
+            "version": "==2019.1"
         }
     },
     "develop": {}
