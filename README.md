@@ -1,3 +1,4 @@
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=kushthedude/To-Do-App)](https://dependabot.com)
 ## Introduction
 It is Simple To-Do app based on Django Rest-API and React.js.
 
