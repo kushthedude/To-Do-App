@@ -32,3 +32,5 @@ React.js
 Django
 
 Python
+
+Made with :heart: By **KUSH TRIVEDI**
