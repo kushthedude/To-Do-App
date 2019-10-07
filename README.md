@@ -15,7 +15,7 @@ It is Simple To-Do app based on Django Rest-API and React.js.
 
 - Clone the project into your local machine.
 
-- Naviagate to directory.
+- Navigate to the directory.
 
 - Install dependencies for frontend(npm install) and for backend(pipenv install)
 
