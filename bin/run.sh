@@ -1,3 +1,3 @@
 #! /bin/bash
 
-pipenv run pytest -vrfE
+pipenv run python manage.py runserver
