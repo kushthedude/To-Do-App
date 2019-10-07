@@ -17,13 +17,13 @@ It is Simple To-Do app based on Django Rest-API and React.js.
 
 - Navigate to the directory.
 
-- Install dependencies for frontend(npm install) and for backend(pipenv install)
+- Install dependencies for frontend(yarn install) and for backend(pipenv install)
 
 **To run** the project:
 
 - Start backend server by command `python manage.py runserver`.
 
-- Start frontend by command `npm install`.
+- Start frontend by command `yarn start`.
 
 - See your app on 'localhost:3000'
 
