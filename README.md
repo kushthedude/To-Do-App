@@ -1,36 +1,38 @@
-
 [![Dependabot compatibility score](https://api.dependabot.com/badges/compatibility_score?dependency-name=react-dom&package-manager=npm_and_yarn&previous-version=16.6.3&new-version=16.8.6)](https://dependabot.com/compatibility-score.html?dependency-name=react-dom&package-manager=npm_and_yarn&previous-version=16.6.3&new-version=16.8.6)
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=kushthedude/To-Do-App)](https://dependabot.com)
 
 ## Introduction
+
 It is Simple To-Do app based on Django Rest-API and React.js.
 
 ## Requirements
--Pip3
--Python3(3.5 and above)
+
+- Pip3
+
+- Python3(3.5 and above)
 
 ## Getting started
-1.)Clone the project into your local machine.
 
-2.)Naviagate to directory.
+- Clone the project into your local machine.
 
-3.)Install dependencies for frontend(npm install) and for backend(pipenv install)
+- Navigate to the directory.
 
-4.)To run-:
+- Install dependencies for frontend(yarn install) and for backend(pipenv install)
 
-a.)Start backend server by command 'python manage.py runserver'.
+**To run** the project:
 
-b.)Start frontend by command 'npm install'.
+- Start backend server by command `python manage.py runserver`.
 
-c.)See your app on 'localhost:3000'
+- Start frontend by command `yarn start`.
 
+- See your app on 'localhost:3000'
 
-## Tech Used-:
+## Technologies Used:
 
-React.js
+- React.js
 
-Django
+- Django
 
-Python
+- Python
 
 Made with :heart: By **KUSH TRIVEDI**
