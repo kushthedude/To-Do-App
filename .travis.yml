@@ -1,0 +1,13 @@
+matrix:
+  include:
+    - language: python
+      python: 3.6
+      script:
+      - pip install pipenv
+      - pipenv install
+
+    - language: node_js
+      node_js: 
+      - "9"
+      script:
+      - npm install
