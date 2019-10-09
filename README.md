@@ -36,4 +36,4 @@ It is Simple To-Do app based on Django Rest-API and React.js.
 
 - Python
 
-Made with :heart: By **KUSH TRIVEDI**
+Made with :heart: By [**KUSH TRIVEDI**](github.com/kushthedude)
