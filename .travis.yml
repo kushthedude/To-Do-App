@@ -10,4 +10,4 @@ matrix:
       node_js: 
       - "9"
       script:
-      - npm install
+      - yarn install
