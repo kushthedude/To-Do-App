@@ -3,11 +3,11 @@ matrix:
     - language: python
       python: 3.6
       script:
-      - pip install pipenv
+      - pip3 install pipenv
       - pipenv install
 
     - language: node_js
       node_js: 
-      - "9"
+      - "10"
       script:
       - yarn install
