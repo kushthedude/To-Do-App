@@ -1,0 +1,26 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/Back"
+  schedule:
+    interval: daily
+    time: "23:30"
+  open-pull-requests-limit: 10
+  reviewers:
+  - kushthedude
+  labels:
+  - dependabot
+  - dependencies
+  - javascript
+- package-ecosystem: pip
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "23:30"
+  open-pull-requests-limit: 10
+  reviewers:
+  - kushthedude
+  labels:
+  - dependabot
+  - dependencies
+  - python
