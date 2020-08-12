@@ -1,5 +1,4 @@
 [![Dependabot compatibility score](https://api.dependabot.com/badges/compatibility_score?dependency-name=react-dom&package-manager=npm_and_yarn&previous-version=16.6.3&new-version=16.8.6)](https://dependabot.com/compatibility-score.html?dependency-name=react-dom&package-manager=npm_and_yarn&previous-version=16.6.3&new-version=16.8.6)
-[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=kushthedude/To-Do-App)](https://dependabot.com)
 [![Build Status](https://travis-ci.com/kushthedude/To-Do-App.svg?branch=master)](https://travis-ci.com/kushthedude/To-Do-App)
 
 ## Introduction
