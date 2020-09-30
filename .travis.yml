@@ -1,7 +1,7 @@
 matrix:
   include:
     - language: python
-      python: 3.6
+      python: 3.8
       script:
       - pip3 install pipenv
       - pipenv install
@@ -10,4 +10,6 @@ matrix:
       node_js: 
       - "10"
       script:
+      - cd Back
       - yarn install
+      - yarn build
