@@ -13,4 +13,3 @@ matrix:
       - cd Back
       - yarn install
       - yarn build
-      - yarn start
