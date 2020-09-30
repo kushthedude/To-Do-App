@@ -10,6 +10,7 @@ matrix:
       node_js: 
       - "10"
       script:
+      - cd Back
       - yarn install
       - yarn build
       - yarn start
