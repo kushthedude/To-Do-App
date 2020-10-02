@@ -9,7 +9,7 @@ It is Simple To-Do app based on Django Rest-API and React.js.
 
 - Pip3
 
-- Python3(3.5 and above)
+- Python3(3.8 and above)
 
 ## Getting started
 
