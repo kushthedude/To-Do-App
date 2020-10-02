@@ -1,0 +1,31 @@
+name: Build Application
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+    - name: Install pipenv
+      run: |
+        pip3 install pipenv
+        pipenv install
+    - name: Set up Node.js 10
+      uses: actions/setup-node@v1
+      with:
+        node-version: '10'
+    - name: Install dependencies
+      run: |
+        cd Back
+        yarn install
+    - name: Build
+      run: |
+        cd Back
+        yarn build
