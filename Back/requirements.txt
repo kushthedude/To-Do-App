@@ -1,4 +1,5 @@
 django
+djangorestframework
+django-heroku
 gunicorn
 whitenoise
-django-heroku
